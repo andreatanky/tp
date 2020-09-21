@@ -131,7 +131,6 @@ public class EditCommand extends Command {
         private Phone phone;
         private Email email;
         private Address address;
-        private Remark remark;
         private Set<Tag> tags;
 
         public EditPersonDescriptor() {}
@@ -181,10 +180,6 @@ public class EditCommand extends Command {
 
         public void setAddress(Address address) {
             this.address = address;
-        }
-
-        public void setRemark(Remark remark) {
-            this.remark = remark;
         }
 
         public Optional<Address> getAddress() {
