@@ -16,6 +16,8 @@
 * Importing timetable from NUSMods
 * Adding assignments to ProductiveNUS
 * Listing lessons and assignments 
+* Deleting assignments from ProductiveNUS
+* Reminders for assignments
 
 
 ## Site Map
