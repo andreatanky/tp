@@ -4,9 +4,10 @@
 
 ## Project scope
   
-* The project simulates an ongoing software project for a desktop application (called _ProductiveNUS_).
-* ProductiveNUS provides an accessible platform for NUS computing students to manage and keep track of their 
+* ProductiveNUS is a desktop application that provides an accessible platform for 
+NUS computing students to manage and keep track of their 
 academic tasks at hand.  
+
   * It is **written in OOP fashion**. It provides a **reasonably well-written** code base **bigger** (around 6 KLoC) 
   than what students usually write in beginner-level SE modules, without being overwhelmingly big.
   * It comes with a **reasonable level of user and developer documentation**.
