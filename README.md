@@ -7,7 +7,8 @@
 * The project simulates an ongoing software project for a desktop application (called _ProductiveNUS_).
 * ProductiveNUS provides an accessible platform for NUS computing students to manage and keep track of their 
 academic tasks at hand.  
-  * It is **written in OOP fashion**. It provides a **reasonably well-written** code base **bigger** (around 6 KLoC) than what students usually write in beginner-level SE modules, without being overwhelmingly big.
+  * It is **written in OOP fashion**. It provides a **reasonably well-written** code base **bigger** (around 6 KLoC) 
+  than what students usually write in beginner-level SE modules, without being overwhelmingly big.
   * It comes with a **reasonable level of user and developer documentation**.
 ## Motivation
 * As a NUS Computing Student, you would probably have had **difficulties managing your
@@ -16,14 +17,13 @@ academic schedule**. You often feel overwhelmed due to
 cope with. In events like this, having a **disorganised timeline** makes your
 situation worse. You often **underestimate the time
 it takes** to complete your assignments and you might be **late for your lessons** as you are preoccupied 
-with completing your assignments. However, all these
+with completing them. However, all these
 tasks still remain uncompleted. You keep spinning your wheels.
 
 ## Aim
 * Effective time management among NUS Computing students, resulting in higher productivity.
-* Efficiency in browsing through all 
-* We hope to provide you with the best **SETTING** to manage your academic schedule
-so that you can excel in your University Study.
+* Efficiency in browsing through all your academic tasks (lessons and assignments) at once.
+* Better planning of your academic schedule.
 
 ## User stories
 | No. | As a...           | I can...                              | So that I can...                                                          |
